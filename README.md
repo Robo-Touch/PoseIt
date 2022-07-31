@@ -17,8 +17,9 @@
 </div>
 
 ## Dataset Format
-
-<img src="https://github.com/CMURoboTouch/PoseIt/blob/main/figures/data_modalities-1.pdf" width="600px"> 
+<p align="center">
+<img src="https://github.com/CMURoboTouch/PoseIt/blob/main/figures/data_modalities-1-1.png" width="800px"> 
+</p>
 
 ## Objects
 
