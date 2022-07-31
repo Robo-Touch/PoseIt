@@ -16,7 +16,7 @@
 </p>
  
 </div>
-PoseIt dataset contains RGB-D, tactile - Gelsight & Weiss, force, torque, joint angle, joint velocity, and gripper force data for various grasp holding
+PoseIt dataset contains RGB-D, tactile - Gelsight & WSG-DSA, force, torque, joint angle, joint velocity, and gripper force data for various grasp holding
 poses. In total, PoseIt consists of 1840 grasp datapoints collected from 26 distinct objects, with 16 different holding poses for each object. The PoseIt
 data collection pipeline contains the following phases: grasping the object, moving the object to a holding pose, and shaking the object to check its
 stability. To test grasp quality on a diverse range of objects, we collected data for 26 various household objects with a diverse range of size, shape,
