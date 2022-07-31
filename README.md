@@ -14,10 +14,15 @@
 <a href="#license">License</a> •
 <a href="#maintainers">Maintainers</a>
 </p>
-
+ 
 </div>
+PoseIt dataset contains RGB-D, tactile - Gelsight & Weiss, force, torque, joint angle, joint velocity, and gripper force data for various grasp holding
+poses. In total, PoseIt consists of 1840 grasp datapoints collected from 26 distinct objects, with 16 different holding poses for each object. The PoseIt
+data collection pipeline contains the following phases: grasping the object, moving the object to a holding pose, and shaking the object to check its
+stability. To test grasp quality on a diverse range of objects, we collected data for 26 various household objects with a diverse range of size, shape,
+material, mass, and texture.
 
-## Dataset Format (WIP)
+## Dataset Format
 <p align="center">
 <img src="https://github.com/CMURoboTouch/PoseIt/blob/main/figures/data_modalities-1-1.png" width="800px"> 
 
@@ -25,7 +30,7 @@
 
 Visualization of the data collection setup and data modalities. We use a Universal Robotics UR5e 6-DoF robot arm. An OnRobot Hex 6-Axis force/torque (F/T) sensor is attached to the end effector and records F/T measurements of the grasped objects. We use a high resolution visuo-tactile GelSight sensor. We use the Servo-electric 2-finger parallel gripper WSG50 from Weiss Robotics to attach these tactile sensors. We utilize two Azure Kinects and one RGB camera to visually capture the robot's workspace. 
 
-## Objects (WIP)
+## Objects
 
 | Object  | Image | Mass |
 | ------------- | ------------- | ------------- |
