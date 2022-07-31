@@ -1,5 +1,21 @@
-# PoseIt
-PoseIt a multi-modal dataset that contains visual tactile data for holding poses
+<div align="center">
+
+# PoseIt Dataset
+
+**PoseIt is a visual tactile dataset of various objects with diffferent holding poses.**
+---
+<p align="center">
+<a href="https://www.google.com">Website</a> •
+<a href="#dataset-format">Dataset Format</a> •
+<a href="#objects">Objects</a> •
+<a href="#license">License</a>
+</p>
+
+</div>
+
+## Dataset Format
+
+## Objects
 
 | Object  | Image | Mass |
 | ------------- | ------------- | ------------- |
@@ -29,3 +45,5 @@ PoseIt a multi-modal dataset that contains visual tactile data for holding poses
 | Bowl  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 138g |
 | Toothpaste  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 180g |
 | Computer Mouse  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 84g |
+
+## License
