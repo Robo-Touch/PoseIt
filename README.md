@@ -3,6 +3,9 @@
 # PoseIt Dataset
 
 **PoseIt is a visual tactile dataset of various objects with diffferent holding poses.**
+  
+<img src="https://github.com/CMURoboTouch/PoseIt/blob/main/figures/object_set.PNG" width="600px">
+  
 ---
 <p align="center">
 <a href="https://www.google.com">Website</a> •
@@ -14,6 +17,8 @@
 </div>
 
 ## Dataset Format
+
+<img src="https://github.com/CMURoboTouch/PoseIt/blob/main/figures/data_modalities-1.pdf" width="600px"> 
 
 ## Objects
 
