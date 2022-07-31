@@ -22,6 +22,9 @@ data collection pipeline contains the following phases: grasping the object, mov
 stability. To test grasp quality on a diverse range of objects, we collected data for 26 various household objects with a diverse range of size, shape,
 material, mass, and texture.
 
+- **Dataset** - [](www.google.com)
+- **Paper** - [](www.google.com)
+
 ## Dataset Format
 <p align="center">
 <img src="https://github.com/CMURoboTouch/PoseIt/blob/main/figures/data_modalities-1-1.png" width="800px"> 
@@ -75,4 +78,4 @@ Visualization of the data collection setup and data modalities. We use a Univers
 - [ ] Finalize website and link it here
 - [ ] Replace object images with correct ones
 - [ ] Describe dataset directory structure in tree format
-- [ ] Make the object images smaller?
+- [ ] Talk to Wenzhen about the License
