@@ -11,17 +11,21 @@
 <a href="https://www.google.com">Website</a> •
 <a href="#dataset-format">Dataset Format</a> •
 <a href="#objects">Objects</a> •
-<a href="#license">License</a>
+<a href="#license">License</a> •
+<a href="#maintainers">Maintainers</a>
 </p>
 
 </div>
 
-## Dataset Format
+## Dataset Format (WIP)
 <p align="center">
 <img src="https://github.com/CMURoboTouch/PoseIt/blob/main/figures/data_modalities-1-1.png" width="800px"> 
+
 </p>
 
-## Objects
+Visualization of the data collection setup and data modalities. We use a Universal Robotics UR5e 6-DoF robot arm. An OnRobot Hex 6-Axis force/torque (F/T) sensor is attached to the end effector and records F/T measurements of the grasped objects. We use a high resolution visuo-tactile GelSight sensor. We use the Servo-electric 2-finger parallel gripper WSG50 from Weiss Robotics to attach these tactile sensors. We utilize two Azure Kinects and one RGB camera to visually capture the robot's workspace. 
+
+## Objects (WIP)
 
 | Object  | Image | Mass |
 | ------------- | ------------- | ------------- |
@@ -53,3 +57,17 @@
 | Computer Mouse  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 84g |
 
 ## License
+
+## Maintainers
+- [Shubham Kanitkar](skanitka@andrew.cmu.edu)
+- [Helen Jiang](helenjia@andrew.cmu.edu)
+- [Wenzhen Yuan](wenzheny@andrew.cmu.edu)
+
+## TODO
+- [x] Finalize readme poster
+- [x] Add objects list
+- [x] Include and describe data collection setup   
+- [ ] Finalize website and link it here
+- [ ] Replace object images with correct ones
+- [ ] Describe dataset directory structure in tree format
+- [ ] Make the object images smaller?
