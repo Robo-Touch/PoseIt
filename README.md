@@ -83,4 +83,4 @@ Visualization of the data collection setup and data modalities. We use a Univers
 - [ ] Finalize website and link it here
 - [ ] Replace object images with correct ones
 - [ ] Describe dataset directory structure in tree format
-- [ ] Talk to Wenzhen about the License
+- [x] Talk to Wenzhen about the License
