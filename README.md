@@ -3,6 +3,11 @@
 # PoseIt Dataset
 
 **PoseIt is a visual tactile dataset of various objects with diffferent holding poses.**
+
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
   
 <img src="https://github.com/CMURoboTouch/PoseIt/blob/main/figures/object_set.PNG" width="600px">
   
