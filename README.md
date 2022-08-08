@@ -13,7 +13,7 @@
   
 ---
 <p align="center">
-<a href="https://www.google.com">Website</a> •
+<a href="https://labs.ri.cmu.edu/robotouch/poseit/">Website</a> •
 <a href="#dataset-format">Dataset Format</a> •
 <a href="#objects">Objects</a> •
 <a href="#license">License</a> •
