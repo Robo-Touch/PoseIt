@@ -40,7 +40,7 @@ Visualization of the data collection setup and data modalities. We use a Univers
 
 ## Objects
 
-| Object  | Image | Mass |
+<!-- | Object  | Image | Mass |
 | ------------- | ------------- | ------------- |
 | Hand Sanitizer  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 61g |
 | Flashlight  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102940.jpg)  | 87g |
@@ -67,7 +67,7 @@ Visualization of the data collection setup and data modalities. We use a Univers
 | Air Quality Monitor  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 153g |
 | Bowl  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 138g |
 | Toothpaste  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 180g |
-| Computer Mouse  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 84g |
+| Computer Mouse  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 84g | -->
 
 ## License
 
