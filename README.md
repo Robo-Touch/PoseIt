@@ -15,8 +15,6 @@
 <p align="center">
 <a href="https://labs.ri.cmu.edu/robotouch/poseit/">Website</a> •
 <a href="#dataset-format">Dataset Format</a> •
-<a href="#objects">Objects</a> •
-<a href="#license">License</a> •
 <a href="#maintainers">Maintainers</a>
 </p>
  
@@ -27,8 +25,8 @@ data collection pipeline contains the following phases: grasping the object, mov
 stability. To test grasp quality on a diverse range of objects, we collected data for 26 various household objects with a diverse range of size, shape,
 material, mass, and texture.
 
-- **Dataset** - [](www.google.com)
-- **Paper** - [](www.google.com)
+- **Dataset** - [Link](https://drive.google.com/drive/u/2/folders/1CQiMPBEVvRMrDBSIRVeuwyuUOCOesfMc)
+- **Paper** - [Link](https://arxiv.org/abs/2209.05022)
 
 ## Dataset Format
 <p align="center">
@@ -38,7 +36,7 @@ material, mass, and texture.
 
 Visualization of the data collection setup and data modalities. We use a Universal Robotics UR5e 6-DoF robot arm. An OnRobot Hex 6-Axis force/torque (F/T) sensor is attached to the end effector and records F/T measurements of the grasped objects. We use a high resolution visuo-tactile GelSight sensor. We use the Servo-electric 2-finger parallel gripper WSG50 from Weiss Robotics to attach these tactile sensors. We utilize two Azure Kinects and one RGB camera to visually capture the robot's workspace. 
 
-## Objects
+<!-- ## Objects -->
 
 <!-- | Object  | Image | Mass |
 | ------------- | ------------- | ------------- |
@@ -69,18 +67,7 @@ Visualization of the data collection setup and data modalities. We use a Univers
 | Toothpaste  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 180g |
 | Computer Mouse  | ![](https://github.com/CMURoboTouch/PoseIt/blob/main/objects/IMG_20210209_102931.jpg)  | 84g | -->
 
-## License
-
 ## Maintainers
 - [Shubham Kanitkar](skanitka@andrew.cmu.edu)
 - [Helen Jiang](helenjia@andrew.cmu.edu)
 - [Wenzhen Yuan](wenzheny@andrew.cmu.edu)
-
-## TODO
-- [x] Finalize readme poster
-- [x] Add objects list
-- [x] Include and describe data collection setup   
-- [ ] Finalize website and link it here
-- [ ] Replace object images with correct ones
-- [ ] Describe dataset directory structure in tree format
-- [x] Talk to Wenzhen about the License
